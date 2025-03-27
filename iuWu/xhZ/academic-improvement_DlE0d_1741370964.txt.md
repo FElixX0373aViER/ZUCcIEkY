@@ -6,7 +6,6 @@ All notable changes to this project will be documented in this file. This change
 
 ## [0.1.1] - 2020-08-18
 ### Changed
-- Documentation on how to make the widgets.
 
 ### Removed
 - `make-widget-sync` - we're all async, all the time.

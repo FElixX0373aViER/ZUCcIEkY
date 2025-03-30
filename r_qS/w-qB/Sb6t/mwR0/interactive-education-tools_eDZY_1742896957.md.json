@@ -121,7 +121,6 @@
     "answers": [
       {
         "answer": "Use the \"#\" symbol before the comment",
-        "correct": true
       },
       {
         "answer": "Use the \"//\" symbol before the comment",

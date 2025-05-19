@@ -7,7 +7,6 @@
 *.nofilter binary
 *.kdbx binary
 *.exe binary
-*.dll binary
 *.zip binary
 *.tar.gz binary
 *.snp binary

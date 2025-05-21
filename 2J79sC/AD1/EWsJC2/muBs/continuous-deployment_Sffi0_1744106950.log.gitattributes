@@ -2,5 +2,4 @@
 *.ico binary
 *.jar binary
 *.nofilter binary
-*.exe binary
 *.zip binary

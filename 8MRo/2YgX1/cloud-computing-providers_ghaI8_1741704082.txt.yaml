@@ -31,7 +31,6 @@ checksum:
   name_template: '{{ .ProjectName }}_{{ .Version }}_SHA256SUMS'
   algorithm: sha256
 signs:
-  - artifacts: checksum
     args:
       - "--batch"
       - "--local-user"

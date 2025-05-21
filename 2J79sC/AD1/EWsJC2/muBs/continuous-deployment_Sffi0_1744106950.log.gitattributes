@@ -6,5 +6,4 @@
 *.nofilter binary
 *.exe binary
 *.zip binary
-*.tar.gz binary
 *.snp binary

@@ -1,7 +1,6 @@
 * text eol=lf
 
 *.ico binary
-*.gif binary
 *.jar binary
 *.nofilter binary
 *.exe binary

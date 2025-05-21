@@ -32,7 +32,6 @@ checksum:
   algorithm: sha256
 signs:
     args:
-      - "--batch"
       - "--local-user"
       - "{{ .Env.GPG_FINGERPRINT }}" # set this environment variable for your signing key
       - "--output"

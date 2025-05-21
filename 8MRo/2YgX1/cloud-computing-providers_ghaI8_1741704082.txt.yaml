@@ -33,4 +33,3 @@ signs:
       - "${signature}"
       - "${artifact}"
 changelog:
-  skip: true

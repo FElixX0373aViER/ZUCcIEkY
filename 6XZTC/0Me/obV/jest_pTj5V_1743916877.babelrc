@@ -1,6 +1,5 @@
 {
   "presets": ["airbnb"],
-    ["transform-replace-object-assign", { "moduleSpecifier": "object.assign" }],
     ["add-module-exports"],
     "packages/enzyme-test-suite/test/_helpers/untranspiled*",
   ],

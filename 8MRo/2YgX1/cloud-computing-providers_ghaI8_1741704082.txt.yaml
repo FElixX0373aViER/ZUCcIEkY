@@ -28,4 +28,3 @@ checksum:
       - "--output"
       - "${signature}"
       - "${artifact}"
-changelog:
